@@ -1,2 +1,6 @@
 hi... how are you?
-i am fine
+<<<<<<< HEAD
+i am fine!
+=======
+what are you doing?
+>>>>>>> b4524e2713fc9d0ac4d00ce0ed91047a36068f9a
